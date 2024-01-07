@@ -59,7 +59,7 @@
 .blog .blog__container .blog-pictures .blog_pictures-1 {
   width: 370px;
   height: 310px;
-  background: url(/assets/blog_fresh.svg) no-repeat left;
+  background: url(assets/blog_fresh.svg) no-repeat left;
   position: relative;
 }
 
