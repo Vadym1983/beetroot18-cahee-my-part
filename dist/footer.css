@@ -109,7 +109,7 @@
 .blog .blog__container .blog-pictures .blog_pictures-2 {
   width: 370px;
   height: 310px;
-  background: url(/assets/blog_soup.svg) no-repeat center bottom;
+  background: url(assets/blog_soup.svg) no-repeat center bottom;
   position: relative;
 }
 
@@ -151,7 +151,7 @@
 .blog .blog__container .blog-pictures .blog_pictures-3 {
   width: 370px;
   height: 310px;
-  background: url(/assets/blog_raspberry.svg) no-repeat center;
+  background: url(assets/blog_raspberry.svg) no-repeat center;
   position: relative;
 }
 
@@ -225,7 +225,7 @@
   height: 865px;
   margin-left: auto;
   margin-right: auto;
-  background: url(/assets/contact_background_3.png) repeat top;
+  background: url(assets/contact_background_3.png) repeat top;
   image-rendering: optimizeQuality;
   background-size: 100%;
 }
